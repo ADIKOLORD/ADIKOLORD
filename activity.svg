@@ -145,8 +145,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 76.44224830142063%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">96%</span>
+                                <div class="bar" style="width: 76.31477927063341%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">95%</span>
                             </div>
                         </div>
                     </section>
